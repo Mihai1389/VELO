@@ -1,0 +1,125 @@
+[
+  {
+    "id": "lunaplay",
+    "label": "LunaPlay",
+    "shortCode": "VVRO",
+    "domain": "lunaplay.ro",
+    "contact": "contact@lunaplay.ro",
+    "otherDocOptions": [
+      {
+        "value": "selfie",
+        "labelKey": "doc.selfie"
+      },
+      {
+        "value": "proof_of_adress",
+        "labelKey": "doc.proof_of_adress"
+      },
+      {
+        "value": "video_sport",
+        "labelKey": "doc.video_sport"
+      },
+      {
+        "value": "id_update",
+        "labelKey": "doc.id_update"
+      },
+      {
+        "value": "id_cc",
+        "labelKey": "doc.id_cc"
+      },
+      {
+        "value": "selfie_cc",
+        "labelKey": "doc.selfie_cc"
+      },
+      {
+        "value": "front_back",
+        "labelKey": "doc.front_back"
+      },
+      {
+        "value": "video_general",
+        "labelKey": "doc.video_general"
+      }
+    ]
+  },
+  {
+    "id": "apexspin",
+    "label": "ApexSpin",
+    "shortCode": "APEX",
+    "domain": "apexspin.ro",
+    "contact": "contact@apexspin.ro",
+    "otherDocOptions": [
+      {
+        "value": "selfie_id",
+        "labelKey": "doc.selfie_id"
+      },
+      {
+        "value": "proof_of_adress",
+        "labelKey": "doc.proof_of_adress"
+      },
+      {
+        "value": "video_sport",
+        "labelKey": "doc.video_sport"
+      },
+      {
+        "value": "id_update",
+        "labelKey": "doc.id_update"
+      },
+      {
+        "value": "id_cc",
+        "labelKey": "doc.id_cc"
+      },
+      {
+        "value": "selfie_cc",
+        "labelKey": "doc.selfie_cc"
+      },
+      {
+        "value": "front_back",
+        "labelKey": "doc.front_back"
+      },
+      {
+        "value": "video_general",
+        "labelKey": "doc.video_general"
+      }
+    ]
+  },
+  {
+    "id": "northstar",
+    "label": "NorthStar",
+    "shortCode": "NSTR",
+    "domain": "northstarcasino.ro",
+    "contact": "contact@northstarcasino.ro",
+    "otherDocOptions": [
+      {
+        "value": "selfie",
+        "labelKey": "doc.selfie"
+      },
+      {
+        "value": "proof_of_adress",
+        "labelKey": "doc.proof_of_adress"
+      },
+      {
+        "value": "video_sport",
+        "labelKey": "doc.video_sport"
+      },
+      {
+        "value": "id_update",
+        "labelKey": "doc.id_update"
+      },
+      {
+        "value": "id_cc",
+        "labelKey": "doc.id_cc"
+      },
+      {
+        "value": "selfie_cc",
+        "labelKey": "doc.selfie_cc"
+      },
+      {
+        "value": "front_back",
+        "labelKey": "doc.front_back"
+      },
+      {
+        "value": "video_general",
+        "labelKey": "doc.video_general"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ro" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Support Message Generator — Generate standardized support messages across brands.">
+    <title>VELO</title>
+
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css?v=8">
+    <script type="module" src="main.js?v=8"></script>
+</head>
+
+<body>
+
+    <div id="smg-app" aria-label="Support Message Generator">
+
+        <!-- Top Navigation Bar -->
+        <header id="smg-topbar" role="banner" aria-label="Navigation"></header>
+
+        <!-- Main Content: Split Layout -->
+        <main class="smg-layout" role="main">
+
+            <!-- Left Panel: Template Controls -->
+            <aside id="smg-left-panel" class="smg-panel smg-panel--left" role="complementary"
+                aria-label="Template Controls"></aside>
+
+            <!-- Right Panel: Message Preview -->
+            <section id="smg-right-panel" class="smg-panel smg-panel--right" aria-label="Message Preview"></section>
+
+        </main>
+
+    </div>
+
+    <!-- Toast container is injected by core/toast.js -->
+
+</body>
+
+</html>
