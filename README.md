@@ -61,4 +61,4 @@ VELO transforms daily, repetitive communication tasks into a **single-click proc
 
 Whether you're handling a high-volume KYC backlog or a single tricky withdrawal dispute, VELO ensures every message that leaves your team is **fast, accurate, and on-brand** — every single time.
 
-*This isn't just a tool. It's a new standard for support quality.*
+*This isn't just a tool. It's a new standard for support quality.;)*
